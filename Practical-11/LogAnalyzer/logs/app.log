@@ -1,0 +1,5 @@
+INFO  App started
+INFO  Loading configuration
+ERROR Database connection failed
+INFO  Retrying in 5s
+ERROR Retry failed

@@ -1,0 +1,6 @@
+INFO  Worker 1 ready
+ERROR Job 42 crashed
+INFO  Worker 1 restarted
+INFO  Job 42 requeued
+ERROR Job 42 crashed again
+INFO  Shutdown complete

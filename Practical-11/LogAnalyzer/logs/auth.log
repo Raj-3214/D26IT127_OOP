@@ -1,0 +1,4 @@
+INFO  User alice logged in
+WARN  Failed login for bob
+INFO  User carol logged in
+ERROR Token expired for alice
